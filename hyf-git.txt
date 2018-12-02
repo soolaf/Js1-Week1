@@ -1,1 +1,2 @@
 This is HYF git class
+Adding another line of text.
